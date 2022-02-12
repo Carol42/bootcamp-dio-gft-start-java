@@ -17,7 +17,7 @@
     <ol>
         <li><a href="#pushpin-about">About</a>
             <ul>
-                <li><a href="#sobre-a-empresa" >About the Company</a></li>
+                <li><a href="#about-the-company" >About the Company</a></li>
             </ul>
         </li>
         <li><a href="#link-helpful-links">Helpful Links</a>
@@ -44,7 +44,7 @@ The Bootcamp GFT Start #4 Java is a program focused on Java technology. Includes
 GFT is a multinational company that is a reference in exponential technologies to digital transformation and agile projects with a strong presence in the financial services industry . A company that believes in care and commitment together with courage, collaboration, creativity of their customers and their team.
 GFT is present in 15 countries, has more than 7 thousand employees around the world; being a reference in the international financial sector, present in the market for more than 30 years, always looking for the best solutions and innovation. They value people, culture and opinions, and focus on the team's success! 
 
-<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=007396" alt="voltar ao topo" /></a></p>
+<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=007396" alt="back to top" /></a></p>
 
 ## :link: Helpful Links
 
@@ -61,7 +61,7 @@ GFT is present in 15 countries, has more than 7 thousand employees around the wo
 - [Jabba - Java Version Manager](https://github.com/shyiko/jabba)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
-<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=007396" alt="voltar ao topo" /></a></p>
+<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=007396" alt="back to top" /></a></p>
 
 ## :woman_technologist: The Developer
 
@@ -75,4 +75,4 @@ GFT is present in 15 countries, has more than 7 thousand employees around the wo
 <a href="https://linkedin.com/in/carol42"><img src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=plastic&logo=linkedin" alt="link to my LinkedIn" /></a>
 <a href="mailto:carol42.helo@gmail.com"><img src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=plastic&logo=gmail" alt="link to send me an email" /></a>
 
-<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=007396" alt="voltar ao topo" /></a></p>
+<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=007396" alt="back to top" /></a></p>
