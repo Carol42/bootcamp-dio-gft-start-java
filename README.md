@@ -59,7 +59,9 @@ A GFT está presente em 15 países, possui mais de 7 mil colaboradores ao redor 
 
 #### Ferramentas - Desenvolvimento Java
 - [Jabba - Java Version Manager](https://github.com/shyiko/jabba)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [IntelliJ IDEA IDE](https://www.jetbrains.com/idea/)
+- [Eclipse IDE](https://www.eclipse.org/ide/)
+- [GIt](https://git-scm.com/downloads)
 
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=007396" alt="voltar ao topo" /></a></p>
 

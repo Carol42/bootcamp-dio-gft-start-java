@@ -1,7 +1,10 @@
+# Introdução ao Ecossistema e Documentação Java
+Curso ministrado por [Daniel Hatanaka](https://github.com/hatanakadaniel)
+
 ## Aula 01 - Introdução ao Ecossistema Java
 
 #### O que é Java?
-"Java é uma linguagem de programação e plataforma commputacional lançada pela primeira vez pela Sun Microsystems em 1995". Oracle, 2021. Disponível em: <<https://www.java.com/pt-BR/download/help/whatis_java.html>>
+"Java é uma linguagem de programação e plataforma computacional lançada pela primeira vez pela Sun Microsystems em 1995". Oracle, 2021. Disponível em: <<https://www.java.com/pt-BR/download/help/whatis_java.html>>
 
 #### Características da Linguagem Java:
 
@@ -13,13 +16,13 @@
 
 
 #### O que é a JVM?
-"JVM (Java Virtual Machine) é uma máquina virtual responsável pela tradução dos ByteCodes oriundos do compilador Javac (Java Compiler) em código de máquina de cada sistema operacional."
+"JVM (Java Virtual Machine) é uma máquina virtual responsável pela tradução dos *ByteCodes* oriundos do compilador **Javac (Java Compiler)** em código de máquina de cada sistema operacional."
 
 #### Características da JVM:
 - Execução de pilhas;
 - Gerenciamento de memória;
 - Gerenciamento de threads;
-- Otimização de cósigo (Compilação JIT - Just In Time);
+- Otimização de código (Compilação JIT - Just In Time);
 - Garbage Collector (GB).
 
 #### Diferenças entre JRE e JDK
@@ -30,8 +33,8 @@
 #### Tipos de plataformas Java
 
 - **Java SE (Java Standard Edition)** - contém as especificações do Java e pode ser implementado por diversas empresas como Oracle, OpenJDK, Azul Zulu, etc.
-- **Java EE (Java Enterprise Edition)** - contém todas as especificações do Java SE e um número de programas úteis para que executem em servidores. Em 2019 foi renomeado para Jakarta EE.
-- **Java ME (Java Micro Edition)** - contém especificações para desenvolvimento de programas para dispositivos pequenos como celulares, PDAs, entre outros.
+- **Java EE (Java Enterprise Edition)** - contém todas as especificações do Java SE e um número de programas úteis para que executem em servidores. Em 2019 foi renomeado para Jakarta EE. Utilizado em desenvolvimento web.
+- **Java ME (Java Micro Edition)** - contém especificações para desenvolvimento de programas para dispositivos pequenos como celulares, PDAs, sistemas embarcados, entre outros.
 
 #### Implementações Java SE
 - **OpenJDK**
@@ -55,10 +58,13 @@ curl -sL https://github.com/shyiko/jabba/raw/master/install.sh | bash && . ~/.ja
 ```bash
 # lista todas as versões do JDK
 jabba ls-remote
+
 # instala a versão indicada
 jabba install openjdk@1.11
+
 # para usar a versão indicada:
 jabba use openjdk@1.11
+
 # verifica qual versão do java está sendo usada
 java -version
 ```
